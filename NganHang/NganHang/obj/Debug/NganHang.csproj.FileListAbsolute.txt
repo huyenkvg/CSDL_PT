@@ -1,0 +1,402 @@
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\NganHang.exe.config
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\NganHang.exe
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\NganHang.pdb
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.Form1.resources
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.frmKhachHang.resources
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.frmTaiKhoan.resources
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.exe.licenses
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.csproj.CopyComplete
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.exe
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.pdb
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.frmDangNhap.resources
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.frmMain.resources
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.Frpt_LIETKEKHACHHANG.resources
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.Xrpt_LIETKEKHACHHANG.resources
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.Frpt_LIETKETAIKHOAN.resources
+C:\Users\Administrator\source\repos\NganHang\NganHang\obj\Debug\NganHang.Xrpt_LIETKETAIKHOAN.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\NganHang.exe.config
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\NganHang.exe
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\NganHang.pdb
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Data.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Images.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Data.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.csprojAssemblyReference.cache
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.Form1.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.frmDangNhap.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.frmKhachHang.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.frmMain.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.frmTaiKhoan.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.Frpt_LIETKEKHACHHANG.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.Frpt_LIETKETAIKHOAN.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.Xrpt_LIETKEKHACHHANG.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.Xrpt_LIETKETAIKHOAN.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.csproj.GenerateResource.cache
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.exe.licenses
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.csproj.CoreCompileInputs.cache
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.csproj.CopyComplete
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.exe
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.pdb
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.frmChuyenTien.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.frmDangKy.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.frmGuiTien.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.frmNhanVien.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.Report.frmRpDaoDich.resources
+D:\TAI LIEU PTITHCM\HK7\CSDL Phan Tan\DO AN\NGANYEN\NganHang\NganHang\obj\Debug\NganHang.XtraForm1.resources
